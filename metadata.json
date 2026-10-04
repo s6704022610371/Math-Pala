@@ -1,0 +1,8 @@
+{
+  "name": "Math ปะละ: ตลาดคณิตคิดเร็ว",
+  "description": "เกมคณิตศาสตร์แนวนอน 2D สไตล์การ์ตูนสำหรับเด็กประถม ตะลุย 5 ร้านค้า 30 วินาที ฝึกคิดเลขเร็ว",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
